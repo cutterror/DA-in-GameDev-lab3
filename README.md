@@ -36,7 +36,7 @@
 - Запустила сцену и проверила работу ML-Agent'а.
 - Сделала 3, 9 и 27 копий модели и пронаблюдала за обучением модели.
 
-![Image alt](https://github.com/cutterror/DA-in-GameDev-lab3/raw/master/images/27.png)](https://github.com/cutterror/DA-in-GameDev-lab3/blob/main/images/27.png)
+![Image alt](https://github.com/cutterror/DA-in-GameDev-lab3/blob/main/images/27.png)
 
 ### Запустив сцену с разными количествами копий моделей заметила, что с увелечением их количества скорочть обучения также увеличивается.
 
