@@ -239,7 +239,7 @@ public class RollerAgent : Agent
 }
 ```
 
-![Alt Text]([[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/cutterror/DA-in-GameDev-lab3/blob/main/images/2022-10-27-18-55-40.gif)](https://github.com/cutterror/DA-in-GameDev-lab3/blob/main/images/2022-10-27-18-55-40.gif))
+![Alt Text](https://github.com/cutterror/DA-in-GameDev-lab3/blob/main/images/2022-10-27-18-55-40.gif)
 
 
 ## Выводы
